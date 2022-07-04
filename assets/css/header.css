@@ -1,0 +1,38 @@
+
+
+.header__nav {
+    display: flex;
+}
+
+.header__logo {
+    padding-left: 15px;
+    min-width: 240px;
+}
+
+.header__logo-img {
+    width: 160px;
+}
+
+.header__nav-item {
+    list-style: none;
+    text-align: center;
+    padding: 25px 15px;
+}
+
+.header__nav-link {
+    text-decoration: none;
+    font-size: 1.4rem;
+    line-height: 1.4rem;
+    color: var(--white-color);
+    letter-spacing: 2px;
+}
+
+.header__menu {
+    margin-left: auto;
+    padding: 25px 15px;
+}
+
+.header__menu-icon {
+    font-size: 2rem;
+    color: var(--white-color);
+}
